@@ -2,7 +2,8 @@
 Este projeto utiliza visão computacional com Python, OpenCV e MediaPipe para detectar e contar automaticamente polichinelos (jumping jacks) em tempo real através da webcam. Ideal para quem quer monitorar exercícios físicos sem precisar de sensores externos!
 
 📸 Demonstração
-![Uploading {3FA3E9DA-A59D-4DCF-AE2B-456DD11830F8}.png…]()
+<img width="1306" height="770" alt="{3FA3E9DA-A59D-4DCF-AE2B-456DD11830F8}" src="https://github.com/user-attachments/assets/cfdcf5d1-2618-452d-ba0a-e404cbf0ae1d" />
+
 
 
 🧠 Tecnologias Utilizadas
@@ -48,3 +49,4 @@ Sistemas de gamificação para exercícios
 Ferramentas de fisioterapia
 
 Projetos educacionais de IA e visão computacional
+
