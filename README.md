@@ -19,7 +19,7 @@ NumPy – para cálculos matemáticos
 Clone o repositório:
 
 bash
-git clone https://github.com/seu-usuario/contador-polichinelos.git
+git clone https://github.com/JoaoGuilhermeTeixeira/contador-polichinelos.git
 cd contador-polichinelos
 Crie um ambiente virtual (opcional, mas recomendado):
 
@@ -49,4 +49,5 @@ Sistemas de gamificação para exercícios
 Ferramentas de fisioterapia
 
 Projetos educacionais de IA e visão computacional
+
 
